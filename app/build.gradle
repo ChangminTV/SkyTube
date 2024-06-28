@@ -191,7 +191,7 @@ dependencies {
     // Proprietary modules
     // Official YouTube Android Player API
     extraImplementation files('libs/YouTubeAndroidPlayerApi.jar')
-    extraImplementation 'com.google.android.gms:play-services-cast-framework:20.0.0'
+    extraImplementation 'com.google.android.gms:play-services-cast-framework:21.5.0'
     extraImplementation 'com.sothree.slidinguppanel:library:3.4.0'
     extraImplementation 'com.github.rahatarmanahmed:circularprogressview:2.5.0'
 
